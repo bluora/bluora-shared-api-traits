@@ -1,0 +1,24 @@
+{
+    "name": "bluora/bluora-shared-api-traits",
+    "description": "Traits that Bluora uses with their API wrappers.",
+    "keywords": ["bluora", "api", "php", "traits"],
+    "homepage": "https://github.com/bluora/bluora-shared-api-traits",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rocco Howard",
+            "email": "rocco@bluora.com.au"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "4.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Bluora\\SharedApiTraits\\": "src/"
+        }
+    }
+}
