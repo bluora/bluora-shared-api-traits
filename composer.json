@@ -1,8 +1,8 @@
 {
-    "name": "bluora/bluora-shared-api-traits",
+    "name": "hnhdigital-os/bluora-shared-api-traits",
     "description": "Traits that Bluora uses with their API wrappers.",
     "keywords": ["bluora", "api", "php", "traits"],
-    "homepage": "https://github.com/bluora/bluora-shared-api-traits",
+    "homepage": "https://github.com/hnhdigital-os/bluora-shared-api-traits",
     "license": "MIT",
     "authors": [
         {
